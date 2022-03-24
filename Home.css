@@ -37,7 +37,6 @@
   width: 570px;
   min-height: 127px;
   background-image: none;
-  height: auto;
   margin: 0 auto 43px 270px;
 }
 
@@ -78,7 +77,6 @@
     margin-top: 21px;
     margin-left: auto;
     margin-bottom: 60px;
-    height: auto;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -230,7 +228,6 @@
 .u-section-2 .u-repeater-1 {
   grid-template-columns: repeat(1, 100%);
   min-height: 366px;
-  grid-auto-columns: 100%;
   grid-gap: 10px;
 }
 
